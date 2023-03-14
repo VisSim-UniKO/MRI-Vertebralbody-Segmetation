@@ -1,4 +1,4 @@
-# Segmentation of thoracic and lumbarspine using deep learning
+# Segmentation of thoracic and lumbar spine using deep learning
 
 This research is about segmentation for throatic and lumbar spine using deep learning techniques. Convolutional neural network has been employed. Furthermore, there has been UNet-2D and Unet-3D applied as its type of architecture.  
 As per the augmentation techniques, gaussian, rescaling, blur, rotation applied to improve the generalization aspect of the model and also diceCoeficient and diceLoss for the evaluation metrics.
